@@ -7,5 +7,8 @@
 ![Screenshot (183)](https://user-images.githubusercontent.com/91388754/145577770-d5ce614d-b739-4fa5-a1a3-afe33d77c7c1.png)
 ![Screenshot (184)](https://user-images.githubusercontent.com/91388754/145577775-b64573d3-a7a5-43be-a26e-dc6b13c54d96.png)
 
-# About!
+## Links
+* [Website](https://znap.link/CodeWithFlexz)
+* [Youtube channel](https://www.youtube.com/channel/UCLVrYXt3SL9rT-IcDmgU9Wg)
+* [Instagram](https://instagram.com/codewithflexz)
 
